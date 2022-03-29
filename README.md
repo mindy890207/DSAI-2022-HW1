@@ -18,5 +18,5 @@
 因此最後決定採用AutoArima預測的結果  
 
 ## Run:
-python app.py --training training_data --output submission.csv
+python app.py --training training_data.csv --output submission.csv
 
