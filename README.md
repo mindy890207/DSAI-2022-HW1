@@ -16,3 +16,7 @@
 之後陸續有試過Sarima、LSTM等方法  
 但效果並未有顯著改善  
 因此最後決定採用AutoArima預測的結果  
+
+## Run:
+python app.py --training training_data --output submission.csv
+
